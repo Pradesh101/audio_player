@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "name": "Ambient C Motion",
+            "author": "Justin Bieber",
+            "imagePath": "assets/img/pic-1.png",
+            "audioPath": "audio/ambient_c_motion.mp3"
+        },
+        {
+            "name": "Nasa Mission",
+            "author": "Nasa USA",
+            "imagePath": "assets/img/pic-2.png",
+            "audioPath": "audio/nasa_on_a_mission.mp3"
+        },
+        {
+            "name": "SoundHelix 1",
+            "author": "Sound One",
+            "imagePath": "assets/img/pic-3.png",
+            "audioPath": "audio/SoundHelix-Song-1.mp3"
+        },
+        {
+            "name": "SoundHelix 2",
+            "author": "Sound Two",
+            "imagePath": "assets/img/pic-4.png",
+            "audioPath": "audio/SoundHelix-Song-2.mp3"
+        },
+        {
+            "name": "SoundHelix 3",
+            "author": "Sound Three",
+            "imagePath": "assets/img/pic-5.png",
+            "audioPath": "audio/SoundHelix-Song-4.mp3"
+        },
+        {
+            "name": "SoundHelix 4",
+            "author": "Sound Four",
+            "imagePath": "assets/img/pic-6.png",
+            "audioPath": "audio/SoundHelix-Song-5.mp3"
+        }
+    ]
+}
