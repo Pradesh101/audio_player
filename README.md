@@ -1,6 +1,6 @@
 # audio_player
 
-A new Flutter project.
+A simple audio player application made using flutter and audioplayers package.
 
 ## Getting Started
 
